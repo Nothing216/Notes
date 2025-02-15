@@ -36,7 +36,6 @@ Resultant Force=0 when a closed vector triangle can be formed
 	6. They have same time of action
 =======
 - ![[Screenshot_20250215_162616_Samsung Notes.jpg]]
->>>>>>> origin/main
 ### Forces, density and pressure
 - rocket? think of fuel's mass
 
