@@ -55,7 +55,7 @@ Resultant Force=0 when a closed vector triangle can be formed
 - ![[Pasted image 20250215192224.png]]
 - Gas pressure is constant as volume increasing
 - always calculate $\Delta$GPE from center of object
-- 
+- ![[20250215_212250.jpg]]
 ### Deformation of solids
 - strain energy=EPE
 - work done in force-extension graph is
