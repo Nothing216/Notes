@@ -26,6 +26,7 @@ Resultant Force=0 when a closed vector triangle can be formed
 ![[Pasted image 20250215121711.png]]
 - the resultant force of two vectors in a triangle is always the third vector when in equilibrium. the crossed on is not in equilibrium
 - Resultant Moment=0 when all extrapolated forces intersect at a point
+<<<<<<< HEAD
 - Newtons third law
 	1. Action and reaction are equal
 	2. They are opposite
@@ -33,6 +34,9 @@ Resultant Force=0 when a closed vector triangle can be formed
 	4. They have same type of force
 	5. They have same line of action
 	6. They have same time of action
+=======
+- ![[Screenshot_20250215_162616_Samsung Notes.jpg]]
+>>>>>>> origin/main
 ### Forces, density and pressure
 - rocket? think of fuel's mass
 
