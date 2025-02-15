@@ -3,6 +3,9 @@
 - When they say which quantity is correct with its units, the unit may be given in a broken down form  in terms of other units
 - a homogenous equation has same base units on both sides
 - an equation can be homogenous but incorrect if it has a missing coefficient(1/2) or missing term (ut)
+- Precisions: Rule=0.1cm, caliper=0.01cm, screw guage=0.001cm
+- systematic error: all readings above or below true value and cant be removed by avg
+- Random error: removed by avg
 
 ### Kinematics
 - south of east, east of south, bearing can be used to describe angles
