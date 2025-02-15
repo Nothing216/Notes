@@ -12,21 +12,20 @@
 - Displacement's direction is always from measuring point to current point and does not depend on direction of velocity or acceleration
 - ![[Pasted image 20250215123707.png]]
 - direction of acceleration depends on direction of force
-- average velocity is $\frac{total\ displacement}{total\ time}$
+- average velocity is $\LARGE \frac{total\ displacement}{total\ time}$
 - ![[Pasted image 20250215125803.png]]
 A: velocity is in the negative region so it is -ve. the velocity graph has a negative graident as the displacement is decreasing more and more every second so the gradient is decreasing, so velocity is decreasing (at a constant rate). so acceleration and velocity are negative. if both are -ve then it is acceleration
 ![[Pasted image 20250215130320.png]]
 B: use same logic as A
 C: Gradient is -ve and velocity +ve so has to be deceleration. the negative gradient is increasing so dec increasing
 D: use same logic as A
-- $$average\ speed=\frac{u+v}{2}$$
+- $$\LARGE average\ speed=\frac{u+v}{2}$$
 ### Dynamics
 - always consider if opp direction when finding $\Delta$P, if so then the momentums are added
 Resultant Force=0 when a closed vector triangle can be formed
 ![[Pasted image 20250215121711.png]]
 - the resultant force of two vectors in a triangle is always the third vector when in equilibrium. the crossed on is not in equilibrium
 - Resultant Moment=0 when all extrapolated forces intersect at a point
-<<<<<<< HEAD
 - Newtons third law
 	1. Action and reaction are equal
 	2. They are opposite
@@ -34,20 +33,37 @@ Resultant Force=0 when a closed vector triangle can be formed
 	4. They have same type of force
 	5. They have same line of action
 	6. They have same time of action
-=======
+- look at bouncing ball graph in notes
 - ![[Screenshot_20250215_162616_Samsung Notes.jpg]]
+- Fulcrum=Pivot
+- Any point can be considered pivot
 ### Forces, density and pressure
 - rocket? think of fuel's mass
-
+- Drag $\propto$ Speed, Area, Viscosity
+- Center of Gravity $\neq$ Center of Mass
+- point thru which all weight seems to act vs point where all mass seem to be concentrated
+- ![[Pasted image 20250215171208.png]]
 ### Work Energy Power
 - always consider work done against gravity if the object is on a slope
+- solar=light+heat
+- GPE=KE+work done against friction
+- when in equilibrium$$\LARGE pressure\ of\ air\ inside\ cylinder\ =\frac{piston\ weight}{CSA}+atm$$
+- work done=Pressure x $\Delta$Volume
+- ![[Pasted image 20250215192224.png]]
+- Gas pressure is constant as volume increasing
+- always calculate $\Delta$GPE from center of object
 - 
-
 ### Deformation of solids
 - strain energy=EPE
 - work done in force-extension graph is
   ![[Pasted image 20250127114201.png]]
-
+- $$\LARGE Work\ done=\frac{1}{2}k\Delta x^2$$
+- ![[Pasted image 20250215202844.png]]
+- $$\LARGE \sigma=E\epsilon$$
+- E is material's property
+- area under stress strain graph is $\LARGE \frac{elastic\ P.E}{Volume}$ . Elastic potential energy per unit volume
+- ![[Pasted image 20250215204749.png]]
+- load-unload area=heat lost
 ### Waves
 - when mentioning path difference also mention phase difference
 - when talking about interference **pattern** dont mention intensity
@@ -93,3 +109,4 @@ Resultant Force=0 when a closed vector triangle can be formed
 
 ### General Tips
 * sometimes it is necessary to put options in mcq into equation
+* if a value changes linearly but our equations need it as a constant, we can take average
