@@ -15,14 +15,16 @@
 - Displacement's direction is always from measuring point to current point and does not depend on direction of velocity or acceleration
 - ![[Pasted image 20250215123707.png]]
 - direction of acceleration depends on direction of force
-- average velocity is $\LARGE \frac{total\ displacement}{total\ time}$
+- average velocity is $\large \frac{total\ displacement}{total\ time}$
 - ![[Pasted image 20250215125803.png]]
 A: velocity is in the negative region so it is -ve. the velocity graph has a negative graident as the displacement is decreasing more and more every second so the gradient is decreasing, so velocity is decreasing (at a constant rate). so acceleration and velocity are negative. if both are -ve then it is acceleration
 ![[Pasted image 20250215130320.png]]
 B: use same logic as A
 C: Gradient is -ve and velocity +ve so has to be deceleration. the negative gradient is increasing so dec increasing
 D: use same logic as A
-- $$\LARGE average\ speed=\frac{u+v}{2}$$
+- $$\large average\ speed=\frac{u+v}{2}$$
+- $$\large Horizontal\ Range=\frac{u^2sin2\theta}{g}$$
+
 ### Dynamics
 - always consider if opp direction when finding $\Delta$P, if so then the momentums are added
 Resultant Force=0 when a closed vector triangle can be formed
@@ -50,7 +52,7 @@ Resultant Force=0 when a closed vector triangle can be formed
 - always consider work done against gravity if the object is on a slope
 - solar=light+heat
 - GPE=KE+work done against friction
-- when in equilibrium$$\LARGE pressure\ of\ air\ inside\ cylinder\ =\frac{piston\ weight}{CSA}+atm$$
+- when in equilibrium$$\large pressure\ of\ air\ inside\ cylinder\ =\frac{piston\ weight}{CSA}+atm$$
 - work done=Pressure x $\Delta$Volume
 - ![[Pasted image 20250215192224.png]]
 - Gas pressure is constant as volume increasing
@@ -60,11 +62,11 @@ Resultant Force=0 when a closed vector triangle can be formed
 - strain energy=EPE
 - work done in force-extension graph is
   ![[Pasted image 20250127114201.png]]
-- $$\LARGE Work\ done=\frac{1}{2}k\Delta x^2$$
+- $$\large Work\ done=\frac{1}{2}k\Delta x^2$$
 - ![[Pasted image 20250215202844.png]]
-- $$\LARGE \sigma=E\epsilon$$
+- $$\large \sigma=E\epsilon$$
 - E is material's property
-- area under stress strain graph is $\LARGE \frac{elastic\ P.E}{Volume}$ . Elastic potential energy per unit volume
+- area under stress strain graph is $\large \frac{elastic\ P.E}{Volume}$ . Elastic potential energy per unit volume
 - ![[Pasted image 20250215204749.png]]
 - load-unload area=heat lost
 ### Waves
