@@ -1,11 +1,14 @@
 
-
+periodicity reactions
 ## Analytical techniques
 * Fragments have +
 
 ## Practical
 * when asked if pipette will make results more accurate, it will not if the substance being added is added in excess
 
+## Equilibrium
+![[Pasted image 20250219153930.png]]
+0.13 of H2 reacted and 0.13 of I2 reacted so left is 0.07 and 0.02 which is conc of reactants and conc of product is 0.26
 ## Chemical Bonding
 
 $$
@@ -33,3 +36,6 @@ ratio is 1:4 so we multiply the zinc equation by 4 to get the total number of el
 ## Organic
 #### Intro
 - Racemic mixture has both optical isomers in equal amounts such that their effect is cancelled out
+
+## Qualitative Analysis
+![[Pasted image 20250219163822.png]]

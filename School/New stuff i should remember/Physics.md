@@ -24,6 +24,9 @@ C: Gradient is -ve and velocity +ve so has to be deceleration. the negative grad
 D: use same logic as A
 - $$\large average\ speed=\frac{u+v}{2}$$
 - $$\large Horizontal\ Range=\frac{u^2sin2\theta}{g}$$
+* Relative veloctiy before collision= Relative velocity after collision
+	- When they are moving towards each other add and when away subtract, take absolute value
+- When two objects moving towards each other collide elastically and have same mass, they exchange velocities
 
 ### Dynamics
 - always consider if opp direction when finding $\Delta$P, if so then the momentums are added
@@ -58,7 +61,7 @@ Resultant Force=0 when a closed vector triangle can be formed
 - Gas pressure is constant as volume increasing
 - always calculate $\Delta$GPE from center of object
 - ![[20250215_212250.jpg]]
-- $$\large Gas Pressure=h\rho g\pm atm $$
+- $$\large Gas Pressure=atm \pm h\rho g $$
 ### Deformation of solids
 - strain energy=EPE
 - work done in force-extension graph is
@@ -104,7 +107,10 @@ Resultant Force=0 when a closed vector triangle can be formed
 - If there are total of 3 identical resistors in a circuit and 2 of them are replaced by resistors that have 1/4 * R. Then current does not increase by a factor of 1/4 as total resistance, which depends on all 3 resistors, decreases by a factor less than 1/4.
 - Thermal energy/power dissipated by a battery and energy/power dissipated by a battery are different. To find thermal energy dissipated, we use $$\frac{v^2}{r}t \ or\ I^2rt$$where r is internal resistance
 - To find the R of resistor in parallel where the other resistor's resistance is known, the voltage is known and the current is known: $$\frac{V}{R_1}+\frac{V}{R_2}=I$$
-
+- ![[Pasted image 20250216202002.png]]
+- $$when\ V=0,\ \frac{R_A}{R_B}=\frac{R_C}{R_D}$$
+you can make up values to solve the question too. 
+Derivation: consider I1 and I2. the ratio I1/I2= A/B = C/D
 ### Particle Physics
 * 
 
