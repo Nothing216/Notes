@@ -1,5 +1,13 @@
 
 periodicity reactions
+write about solubulity
+hydration spheres
+vapour pressure and bp
+stability attraction
+
+## Environmental Chem
+- NO2+CO-> N2+CO2 (unbalanced)
+- NO+CO->N2+CO2(unbalanced)
 ## Analytical techniques
 * Fragments have +
 
@@ -31,11 +39,21 @@ The number of mole of each ion is 0.005 mol in Fe2(SO4)3 and since there are 2 m
 ![[Pasted image 20250129011926.png]]
 ratio is 1:4 so we multiply the zinc equation by 4 to get the total number of electrons that one mol of Cr2O7^2- is gonna take. each Cr atom is gonna take 4e- so oxidation decreases by 4. 
 * if there are 2 nonmetals, the more electronegative nonmetal gets the negative oxidation sign
-* 
+* Oxygen is always -2 unless with fluorine or H2O2
+* H is always +1 unless hydride
 
+## States of Matter
+- pV=nrT, v is in m^3 
+## Equilibrium
+- we can use n=vc for gases
+- when sum of molar ratios on left and right side are equal, we can use moles to calculate Kc instead of Conc as V cancels out
 ## Organic
 #### Intro
 - Racemic mixture has both optical isomers in equal amounts such that their effect is cancelled out
+- Dichromate cannot oxidise alkenes
+- branched molecules have lower mps as distance id id forces act on is larger and there are less contact points. they are more spaced out
+- 2^n for chiral and geometric isomers where n is the number of stereo centers
+- ![[Pasted image 20250223173545.png]]
 
 ## Qualitative Analysis
 ![[Pasted image 20250219163822.png]]
