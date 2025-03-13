@@ -32,7 +32,7 @@ D: use same logic as A
 - always consider if opp direction when finding $\Delta$P, if so then the momentums are added
 Resultant Force=0 when a closed vector triangle can be formed
 ![[Pasted image 20250215121711.png]]
-- the resultant force of two vectors in a triangle is always the third vector when in equilibrium. the crossed on is not in equilibrium
+- the resultant force of two vectors in a triangle is always the third vector when in equilibrium. the crossed one is not in equilibrium
 - Resultant Moment=0 when all extrapolated forces intersect at a point
 - Newtons third law
 	1. Action and reaction are equal
@@ -54,6 +54,7 @@ Resultant Force=0 when a closed vector triangle can be formed
 ### Work Energy Power
 - always consider work done against gravity if the object is on a slope
 - solar=light+heat
+- if they ask for rate of dissipation of heat energy from car at constant speed, use the resistive force and speed not the driving force and speed.
 - GPE=KE+work done against friction
 - when in equilibrium$$\large pressure\ of\ air\ inside\ cylinder\ =\frac{piston\ weight}{CSA}+atm$$
 - work done=Pressure x $\Delta$Volume
@@ -61,7 +62,7 @@ Resultant Force=0 when a closed vector triangle can be formed
 - Gas pressure is constant as volume increasing
 - always calculate $\Delta$GPE from center of object
 - ![[20250215_212250.jpg]]
-- $$\large Gas Pressure=atm \pm h\rho g $$
+- $$\large Gas\ Pressure=atm \pm h\rho g $$
 ### Deformation of solids
 - strain energy=EPE
 - work done in force-extension graph is
@@ -70,10 +71,12 @@ Resultant Force=0 when a closed vector triangle can be formed
 - ![[Pasted image 20250215202844.png]]
 - $$\large \sigma=E\epsilon$$
 - E is material's property
+- never use series formula of spring constant for yungs mod
 - area under stress strain graph is $\large \frac{elastic\ P.E}{Volume}$ . Elastic potential energy per unit volume
 - ![[Pasted image 20250215204749.png]]
 - load-unload area=heat lost
 ### Waves
+- For diffraction grating, if i increase d then the first orders come closer together as sin$\theta \propto$ $\frac{\lambda}{d}$ . but if i decrease the number of slits and keep the seperation of slits same(keep d same), there will be no change in $\theta$
 - when mentioning path difference also mention phase difference
 - when talking about interference **pattern** dont mention intensity
 - be careful about what unit phase difference is needed in the answer box
@@ -94,8 +97,10 @@ Resultant Force=0 when a closed vector triangle can be formed
 - Dopplers effect definition: The change in observed frequency of a wave due to the motion of the source of the wave **relative to the observer.**
 - In a stat wave, each particle has a different amplitude which varies from max to 0 
 - if phase diff is x then 360-x is also phase difference
-- Difference between to points on a CRO represents the difference in time between them (time gap)
+- Difference between two points on a CRO represents the difference in time between them (time gap)
 ### Electricity
+- The power curve
+- always treat internal resistance like its a just another resistor in series
 - I-v characteristic of diode: Zero current in one direction, current increases non-linearly with increasing gradient when voltage is increased
 - power ratio formulas:
 	- Series: PowerA:PowerB=ResistanceA:ResistanceB
@@ -103,6 +108,8 @@ Resultant Force=0 when a closed vector triangle can be formed
 - Lost Volts: voltage drop due to internal resistance
 - When explaining why voltage for a certain component goes down when resistance of another component is increased, say that current decreases and V=IR and R of the component is constant.
 - When a battery is connected with same voltage parallely to a circuit, the current in the circuit is the same as the total emf of the circuit is still 6v. however, the current in each battery decreases as the current from the 2 batteries add up to form the same current when only 1 battery was being used.![[Pasted image 20250127190051.png]]
+- ![[Pasted image 20250228175230.png]]
+- Here only the 6v drives the charge, the 2v kind of recharges the battery
 - Quantisation of Charge: Any amount of charge is an integer multiple of elementary charge.
 - If there are total of 3 identical resistors in a circuit and 2 of them are replaced by resistors that have 1/4 * R. Then current does not increase by a factor of 1/4 as total resistance, which depends on all 3 resistors, decreases by a factor less than 1/4.
 - Thermal energy/power dissipated by a battery and energy/power dissipated by a battery are different. To find thermal energy dissipated, we use $$\frac{v^2}{r}t \ or\ I^2rt$$where r is internal resistance

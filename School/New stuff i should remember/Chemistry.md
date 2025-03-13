@@ -8,6 +8,7 @@ stability attraction
 ## Environmental Chem
 - NO2+CO-> N2+CO2 (unbalanced)
 - NO+CO->N2+CO2(unbalanced)
+- volatile organic compounds are unburnt hydrocarbons
 ## Analytical techniques
 * Fragments have +
 
