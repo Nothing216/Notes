@@ -13,19 +13,23 @@ stability attraction
 - volatile organic compounds are unburnt hydrocarbons
 ## Analytical techniques
 * Fragments have +
+* $$
+ Number\ of\  carbon\ atoms\ in\ a\ molecule= \frac{100}{1.1} \times \frac{abundance\ of\ [M+1]^+\ ion}{abundance\ of\ M^+\ ion}
+$$
 
 ## Practical
 * when asked if pipette will make results more accurate, it will not if the substance being added is added in excess
+* 
 
 ## Equilibrium
 ![[Pasted image 20250219153930.png]]
 0.13 of H2 reacted and 0.13 of I2 reacted so left is 0.07 and 0.02 which is conc of reactants and conc of product is 0.26
 - Lets say 3 gases H, I, and N occupy a cylinder. Partial pressure of H is the pressure of H if it alone occupied the cylinder.
+- for Kc calculations, we dont use any liquids or solids that appear in the equation
+- units for Kp can be Pa or atm
 ## Chemical Bonding
 
-$$
- Number\ of\  carbon\ atoms\ in\ a\ molecule= \frac{100}{1.1} \times \frac{abundance\ of\ [M+1]^+\ ion}{abundance\ of\ M^+\ ion}
-$$
+
 ## Moles
 * density of a gas at rtp can be found like this: 
 $$ n=\frac{mass}{molar\ mass}=\frac{volume}{24} \
