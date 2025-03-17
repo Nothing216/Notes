@@ -1,0 +1,5 @@
+- equilibrium
+- enthalpy
+- Bonding
+- Periodicity
+- Environmental chem

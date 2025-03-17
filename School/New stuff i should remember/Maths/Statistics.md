@@ -17,3 +17,4 @@ $$\phi^{-1}(x)\ where \ x\ is\ correct\ to\ 4sf$$
 * accuracy of values of μ and σ are very important. slight differences give much different answers. keep them correct to 3sf by using 4sf in calculations
 * nq and pq need to be more than 5 
 * dont forget to label x and y axis of fd graph
+* N~($\mu,\sigma^2$ )

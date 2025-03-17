@@ -1,4 +1,6 @@
-
+### Definitions
+- Work Done: Product of force and the displacement in the direction of force is work done
+- Principle of superposition: When 2 or more waves are superposed simultaneously the resultant displacement at a point is equal to the sum of individual displacement.
 ### Physical Quantities and Units
 - When they say which quantity is correct with its units, the unit may be given in a broken down form  in terms of other units
 - a homogenous equation has same base units on both sides
