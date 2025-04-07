@@ -101,7 +101,7 @@ Resultant Force=0 when a closed vector triangle can be formed
 - if phase diff is x then 360-x is also phase difference
 - Difference between two points on a CRO represents the difference in time between them (time gap)
 ### Electricity
-- The power curve
+- The power curve ![[Pasted image 20250319233954.png]]
 - always treat internal resistance like its a just another resistor in series
 - I-v characteristic of diode: Zero current in one direction, current increases non-linearly with increasing gradient when voltage is increased
 - power ratio formulas:

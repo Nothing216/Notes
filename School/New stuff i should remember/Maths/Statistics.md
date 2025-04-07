@@ -18,3 +18,37 @@ $$\phi^{-1}(x)\ where \ x\ is\ correct\ to\ 4sf$$
 * nq and pq need to be more than 5 
 * dont forget to label x and y axis of fd graph
 * N~($\mu,\sigma^2$ )
+* $\mu$=1/p for geometric
+* mode of geometric is 1
+* $$P(x\le r)\ means\ 1-q^r$$
+* $$P(x> r)\ means\ q^r$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Hard Questions
+
+![[Pasted image 20250321113608.png]]
+||npq=32 np=96. Find n find p. p=k/9. find K|| 

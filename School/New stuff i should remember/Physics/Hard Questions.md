@@ -15,4 +15,30 @@
 ||C||
 ![[Pasted image 20250228204137.png]]
 ||C||
+![[Pasted image 20250322230414.png]]
+||D|| 
+
+![[Pasted image 20250322232643.png]]
+||C|| 
+![[Pasted image 20250323073442.png]]
+||C||
+![[Pasted image 20250323090725.png]]
+||B||
+||think of it as a barometer||
+![[Pasted image 20250323091412.png]]
+||B||
+![[Pasted image 20250323091536.png]]
+||C||
+
+2010 w12
+![[Pasted image 20250327215549.png]]
+||D||
+![[Pasted image 20250328103206.png]]
+||A||
+![[Pasted image 20250328103232.png]]
+||D||
+![[Pasted image 20250328103252.png]]
+||D||
+![[Pasted image 20250328103356.png]]
+||B||
 
