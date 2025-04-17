@@ -4,9 +4,17 @@ write about solubulity
 hydration spheres
 vapour pressure and bp
 stability attraction
+
+saturated solution: a solution in which no more solute dissolves at a certain temp
+environmental chem
 ### Period 3
 - $$Al_2Cl_6{(s)} \xrightarrow[Just\ Sublimes]{heat} Al_2Cl_6(g) \xrightarrow{more\ heat}AlCl_3(g) $$
 - Al2Cl6 makes pH of water 4 when added as HCl(g) is produced
+- $$Al_2O_3\ +\ 2NaOH \rightarrow \ NaAlO_2\ +\ H_2O$$
+- $$Al_2O_3\ +\ 2NaOH\ +\ 3H_2O\ \rightarrow\ 2NaAl(OH)_4 $$
+- $$\ce{ZnO + 2NaOH -> Na2ZnO2 + H2O}$$
+- $$\ce{ZnO + 2NaOH + H2O -> Na2Zn(OH)4}$$
+- there is trend in electrical conductivity even among non-metals
 ## Environmental Chem
 - NO2+CO-> N2+CO2 (unbalanced)
 - NO+CO->N2+CO2(unbalanced)
@@ -38,6 +46,44 @@ in mass spectroscopy, these types of cuts are unlikely so never choose them. the
 - bond angle of hydrogen bond must look like 180 degrees when drawing
 - Cis isomer is always more polar
 - Van der waals= intermolecular forces->HB,PDPD,IDID
+- For 2 molecules to mix, the forces between the molecules in the 2 individual liquids l must be equal to or less than the forces between the molecules after theyve mixed
+
+#### Bucky Balls
+Structure:
+- Simple molecular
+- Spherical molecule
+- Hexagonal arragement
+- 1 carbon atom bonded to 3 other carbon atoms COVALENTLY
+
+Low sublimation point:
+- weak intermolecular forces between balls
+
+soft:
+- weak intermolecular forces between balls
+
+Conductivity:
+- poor electrical conductor as delocalisation is less than graphite
+
+Solubility:
+- soluble in organic solvents
+
+Reactivity:
+- more reactive than carbon and graphite because of high electron density
+#### Hydrogen Bonding
+- Rule: One molecule must have an $H^{\delta+}$atom bonded to FON. That H atom then forms a hydrogen bond with a lone pair of a FON$^{\delta-}$ on another molecule
+- ![[Pasted image 20250407193438.png]]
+- ![[Pasted image 20250407193704.png]]
+- hydrogen bond angle always 180
+- Avg H bonds per molecule:
+	- H2O: 2
+	- HF: 1
+	- NH3: 1
+- To find avg bonds per molecule we find ratio of lone pairs to $H^{\delta+}$. The lowest value of the 2 is the avg hydrogen bonds per molecule
+- HF has a strong hydrogen bond than H2O and NH3 as F is more electronegative but H2O has more average hydrogen bonds per molecule than HF so H2O has higher BP than HF
+#### Properties of water due to hydrogen bonds
+- High surface tension: water molecules on the surface are being pulled by ones below thru H bonds. Downward force at the surface
+- Ice is less dense than gas as hydrogen bonds form a rigid lattice(each oxygen atom is surrounded by a tetrahedron of hydrogen atoms) that has a more spaced out arrangement as hydrogen bond lengths are very large so H2O molecules are further apart from each other in ice compared to water
+- relatively high viscosity as hydrogen bonds make it harder for water molecules to slide over one another
 
 ## Moles
 * density of a gas at rtp can be found like this: 
@@ -62,9 +108,13 @@ ratio is 1:4 so we multiply the zinc equation by 4 to get the total number of el
 ## States of Matter
 - pV=nrT, v is in m^3 
 - ![[Pasted image 20250406132156.png]]
-- Initial dip as low pressure=low volume, imf is more significant as less distance between molecules. 
+- Initial dip as low pressure=low volume, imf is more significant as less distance between molecules. so it decreases the volume even more
 - exponential increase as molecules have volume so when pressure is kept on increasing at one point volume doesnt decrease proportionally. pV, p increases but V decreases very little or stays same so pV as a whole increases
+- at higher temperatures, intermolecular forces are less significant so its closer to ideal gas line
+- 
 ## Enthalpy
+- enthalpy change of formation of an oxide= enthalpy change of combustion of element
+- precipitation involves energy cha
 ![[Pasted image 20250317151535.png]]
 ## Organic
 #### Intro

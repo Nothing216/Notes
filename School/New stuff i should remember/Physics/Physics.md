@@ -100,6 +100,18 @@ Resultant Force=0 when a closed vector triangle can be formed
 - In a stat wave, each particle has a different amplitude which varies from max to 0 
 - if phase diff is x then 360-x is also phase difference
 - Difference between two points on a CRO represents the difference in time between them (time gap)
+- Diffraction grating is always sharper than double slit. when comparing fringe width of diffraction grating with double slit, the one with smaller slit seperation (d for diffraction grating and a for double slit) will be wider
+
+| Em Waves | $\lambda$ range                    |
+| -------- | ---------------------------------- |
+| Radio    | $10^6-10^{-1}$                     |
+| Micro    | $10^{-1}-10^{-3}$                  |
+| Infra    | $10^{-3}\text{m}-650\text {nm}$    |
+| visible  | $\text {650nm(red)-350nm(violet)}$ |
+| UV       | $\text{350nm}-10^{-8}$             |
+| X        | $10^{-8}-10^{-13}$                 |
+| gamma    | $10^{-10}-10^{-16}$                |
+
 ### Electricity
 - The power curve ![[Pasted image 20250319233954.png]]
 - always treat internal resistance like its a just another resistor in series

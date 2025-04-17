@@ -1,4 +1,5 @@
 - Try not to square both sides for absolute value questions instead use graph
+- IMPORTANT BINOMIAL EXPANSION NEGATIVE POWERS FIND RANGE OF X FOR WHICH ITS VALID
 - sometimes arg between two vectors cannot be found so you subtract argA-argB get arg(A/B) and then find arg
 - Differentiating 
 - $$2y\cdot \frac{dy}{dx}$$
@@ -15,7 +16,7 @@ $$
 	- modulus argument form: r and theta
 	- exponential form: e
 - ![[Pasted image 20250330111914.png]]
-
+- when its
 
 
 Questions
