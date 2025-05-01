@@ -1,4 +1,4 @@
-
+SYLLABUS QUESTIONS
 periodicity reactions
 write about solubulity
 hydration spheres
@@ -7,6 +7,11 @@ stability attraction
 
 saturated solution: a solution in which no more solute dissolves at a certain temp
 environmental chem
+
+### Atomic structure
+![[Pasted image 20250417234801.png]]
+![[Pasted image 20250417234739.png]]
+first mini jump because e- removed from inner subshell (lower energy level, less shielding so more energy needed). from 5-6 the gradient is less as the increase in energy is not as much as 4-5. increase in energy due to subshell>increase in energy due to a more positive atom
 ### Period 3
 - $$Al_2Cl_6{(s)} \xrightarrow[Just\ Sublimes]{heat} Al_2Cl_6(g) \xrightarrow{more\ heat}AlCl_3(g) $$
 - Al2Cl6 makes pH of water 4 when added as HCl(g) is produced
@@ -114,7 +119,7 @@ ratio is 1:4 so we multiply the zinc equation by 4 to get the total number of el
 - 
 ## Enthalpy
 - enthalpy change of formation of an oxide= enthalpy change of combustion of element
-- precipitation involves energy cha
+- precipitation involves energy change
 ![[Pasted image 20250317151535.png]]
 ## Organic
 #### Intro
