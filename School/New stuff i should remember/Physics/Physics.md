@@ -1,3 +1,5 @@
+
+DESCRIBE AN EXPERIMENT
 ### Definitions
 - Work Done: Product of force and the displacement in the direction of force is work done
 - Principle of superposition: When 2 or more waves are superposed simultaneously the resultant displacement at a point is equal to the sum of individual displacement.
@@ -8,6 +10,15 @@
 - Precisions: Rule=0.1cm, caliper=0.01cm, screw guage=0.001cm
 - systematic error: all readings above or below true value and cant be removed by avg
 - Random error: removed by avg
+- Fundamental/base quantities:
+	- length
+	- mass
+	- time
+	- temp
+	- current
+	- luminous intensity
+	- amount of substance
+
 
 ### Kinematics
 - south of east, east of south, bearing can be used to describe angles

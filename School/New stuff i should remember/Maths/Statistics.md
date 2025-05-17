@@ -1,4 +1,10 @@
--  Coding Data means to add, subtract, multiply or divide a constant from all the values of a data set so that we can work with it more easily
+- TO DO
+	- how many numbers above 700 and odd
+	- 
+
+
+
+- Coding Data means to add, subtract, multiply or divide a constant from all the values of a data set so that we can work with it more easily
 * $$x=101, 103, 104,108,111 
 $$
 $$
@@ -23,6 +29,7 @@ $$\phi^{-1}(x)\ where \ x\ is\ correct\ to\ 4sf$$
 * $$P(x\le r)\ means\ 1-q^r$$
 * $$P(x> r)\ means\ q^r$$
 * combinations in probability replace 8/15 x 7/14 x 6/13 x 5/12 x 4/11 x 7/10 x 6/9 x (7!)/(5! x 2!). SSSSSS'S'
+
 
 
 

@@ -56,8 +56,7 @@ in mass spectroscopy, these types of cuts are unlikely so never choose them. the
 #### Bucky Balls
 Structure:
 - Simple molecular
-- Spherical molecule
-- Hexagonal arragement
+- Spherical molecule with hexagonal sides
 - 1 carbon atom bonded to 3 other carbon atoms COVALENTLY
 
 Low sublimation point:
@@ -87,7 +86,7 @@ Reactivity:
 - HF has a strong hydrogen bond than H2O and NH3 as F is more electronegative but H2O has more average hydrogen bonds per molecule than HF so H2O has higher BP than HF
 #### Properties of water due to hydrogen bonds
 - High surface tension: water molecules on the surface are being pulled by ones below thru H bonds. Downward force at the surface
-- Ice is less dense than gas as hydrogen bonds form a rigid lattice(each oxygen atom is surrounded by a tetrahedron of hydrogen atoms) that has a more spaced out arrangement as hydrogen bond lengths are very large so H2O molecules are further apart from each other in ice compared to water
+- Ice is less dense than water as hydrogen bonds form a rigid lattice(each oxygen atom is surrounded by a tetrahedron of hydrogen atoms) that has a more spaced out arrangement as hydrogen bond lengths are very large so H2O molecules are further apart from each other in ice compared to water
 - relatively high viscosity as hydrogen bonds make it harder for water molecules to slide over one another
 
 ## Moles
@@ -147,6 +146,8 @@ ketone, aldehyde, acid removes 2H
 haloalkane removes 1 H dihaloalkane removes 2H and so on
 CH2 is 14 molar mass and CH3 is 15 
 carboxylic acid needs 4H to reduce as it needs to remove an O atom
+For geometric isomers, 2 same groups on one carbon atom, no geometric isomers.
+hybridisation and orbital overlap drawing bond forming drawing PLS
 
 #### Redox shortcuts
 oxidation to carboxylic acid: 2H lost 1 O gained
