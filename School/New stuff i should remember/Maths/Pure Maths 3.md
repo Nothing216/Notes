@@ -10,7 +10,7 @@ $$
 - In implicit differentiation, when finding coordinates of turning point, always input the x and y coordinates in the dy/dx expression to see if you get 0. This is specially needed when dy/dx is a fraction and has x in the denominator
 - When turning into $sin(\theta\pm\alpha)$ have sin first then cos and for $cos(\theta\mp\alpha)$ have cos first then sin
 - $asin(\theta)\pm bcos(\theta)=Rsin(\theta\pm\alpha)$ 
-- $acos(\theta)\pm bsin(\theta)=cos(\theta\mp\alpha)$ 
+- $acos(\theta)\pm bsin(\theta)=Rcos(\theta\mp\alpha)$ 
 - always $tan(\theta)=\frac{b}{a}$ 
 - Polar forms:
 	- modulus argument form: r and theta

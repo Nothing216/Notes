@@ -14,7 +14,8 @@ environmental chem
 first mini jump because e- removed from inner subshell (lower energy level, less shielding so more energy needed). from 5-6 the gradient is less as the increase in energy is not as much as 4-5. increase in energy due to subshell>increase in energy due to a more positive atom
 ### Period 3
 - $$Al_2Cl_6{(s)} \xrightarrow[Just\ Sublimes]{heat} Al_2Cl_6(g) \xrightarrow{more\ heat}AlCl_3(g) $$
-- Al2Cl6 makes pH of water 4 when added as HCl(g) is produced
+- Al2Cl6 makes pH of water 4 due to 3+ charge
+- Al2Cl6 produces HCl when added to water
 - $$Al_2O_3\ +\ 2NaOH \rightarrow \ NaAlO_2\ +\ H_2O$$
 - $$Al_2O_3\ +\ 2NaOH\ +\ 3H_2O\ \rightarrow\ 2NaAl(OH)_4 $$
 - $$\ce{ZnO + 2NaOH -> Na2ZnO2 + H2O}$$
@@ -110,12 +111,14 @@ ratio is 1:4 so we multiply the zinc equation by 4 to get the total number of el
 * H is always +1 unless hydride
 
 ## States of Matter
-- pV=nrT, v is in m^3 
+- pV=nrT, v is in m^3, T is in K 
 - ![[Pasted image 20250406132156.png]]
 - Initial dip as low pressure=low volume, imf is more significant as less distance between molecules. so it decreases the volume even more
 - exponential increase as molecules have volume so when pressure is kept on increasing at one point volume doesnt decrease proportionally. pV, p increases but V decreases very little or stays same so pV as a whole increases
 - at higher temperatures, intermolecular forces are less significant so its closer to ideal gas line
-- 
+
+## Acid Base
+![[Pasted image 20250518124939.png]]
 ## Enthalpy
 - enthalpy change of formation of an oxide= enthalpy change of combustion of element
 - precipitation involves energy change
@@ -147,7 +150,7 @@ haloalkane removes 1 H dihaloalkane removes 2H and so on
 CH2 is 14 molar mass and CH3 is 15 
 carboxylic acid needs 4H to reduce as it needs to remove an O atom
 For geometric isomers, 2 same groups on one carbon atom, no geometric isomers.
-hybridisation and orbital overlap drawing bond forming drawing PLS
+
 
 #### Redox shortcuts
 oxidation to carboxylic acid: 2H lost 1 O gained

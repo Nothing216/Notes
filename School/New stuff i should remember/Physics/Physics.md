@@ -46,7 +46,6 @@ D: use same logic as A
 Resultant Force=0 when a closed vector triangle can be formed
 ![[Pasted image 20250215121711.png]]
 - the resultant force of two vectors in a triangle is always the third vector when in equilibrium. the crossed one is not in equilibrium
-- Resultant Moment=0 when all extrapolated forces intersect at a point
 - Newtons third law
 	1. Action and reaction are equal
 	2. They are opposite
@@ -112,6 +111,7 @@ Resultant Force=0 when a closed vector triangle can be formed
 - if phase diff is x then 360-x is also phase difference
 - Difference between two points on a CRO represents the difference in time between them (time gap)
 - Diffraction grating is always sharper than double slit. when comparing fringe width of diffraction grating with double slit, the one with smaller slit seperation (d for diffraction grating and a for double slit) will be wider
+- ![[Pasted image 20250518005255.png]]
 
 | Em Waves | $\lambda$ range                    |
 | -------- | ---------------------------------- |
