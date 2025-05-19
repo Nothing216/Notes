@@ -1,12 +1,7 @@
-SYLLABUS QUESTIONS
+
 periodicity reactions
-write about solubulity
-hydration spheres
-vapour pressure and bp
-stability attraction
 
 saturated solution: a solution in which no more solute dissolves at a certain temp
-environmental chem
 
 ### Atomic structure
 ![[Pasted image 20250417234801.png]]
