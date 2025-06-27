@@ -20,6 +20,7 @@ first mini jump because e- removed from inner subshell (lower energy level, less
 - NO2+CO-> N2+CO2 (unbalanced)
 - NO+CO->N2+CO2(unbalanced)
 - volatile organic compounds are unburnt hydrocarbons
+- VOCs are converted to CO2 and H2O in catalytic converters
 ## Analytical techniques
 * Fragments have +
 * $$
@@ -75,7 +76,7 @@ Reactivity:
 - ![[Pasted image 20250407193704.png]]
 - hydrogen bond angle always 180
 - Avg H bonds per molecule:
-	- H2O: 2
+	- H2O: 2 (max 4)
 	- HF: 1
 	- NH3: 1
 - To find avg bonds per molecule we find ratio of lone pairs to $H^{\delta+}$. The lowest value of the 2 is the avg hydrogen bonds per molecule
@@ -139,7 +140,7 @@ breaking C-Cl bond has a very high Ea compared to Ea needed for C+ alkane to rea
 Alkane ratio is $C_n H_{2n}$ 
 Cyclic removes 2H from alkane ratio
 double bond removes 2H
-2 cyclic rings remove 2H 
+cyclic rings remove 2H 
 ketone, aldehyde, acid removes 2H
 haloalkane removes 1 H dihaloalkane removes 2H and so on
 CH2 is 14 molar mass and CH3 is 15 
@@ -169,7 +170,7 @@ Alkene+Hydrogen halide
 Alkene+Water
 ![[Pasted image 20250406110629.png]]
 
-Alkene+Hydrogen is ONLY addition
+Alkene+Hydrogen is ONLY addition (and reduction)
 
 
 
@@ -184,6 +185,9 @@ Haloalkane+water
 Haloalkane+NH3
 ![[Pasted image 20250406111317.png]]
 
+Haloalkane+KCN
+
+Alcohol+HCl/PCl5/SOCl2/PCl3 is substituiton
 #### Nucleophilic addition
 
 Carbonyl+HCN (in KCN catalyst)
@@ -195,7 +199,13 @@ Carbonyl+HCN (in KCN catalyst)
 Haloalkane+NaOH in ethanol
 ![[Pasted image 20250406111354.png]]
 
+#### Hydrolysis
 
+Haloalkane+H2O/NaOH
+Nitrile+H2O->NH3
+Nitrile+H2O+H+->NH4+
+Nitrile + OH- + H2O->NH3
+ester+H2O/NaOH
 ## Enthalpy Change
 - when using weaker acid, enthalpy of neutralisation is lower than stronger acid as energy is needed to dissociate weak acid 
 - H++OH- enthalpy change is constant

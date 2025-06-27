@@ -41,4 +41,8 @@
 ||D||
 ![[Pasted image 20250328103356.png]]
 ||B||
-
+9702/12/m/j/24
+![[Pasted image 20250601013819.png]]
+||B||
+![[Pasted image 20250601130535.png]]
+||D||

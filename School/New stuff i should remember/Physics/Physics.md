@@ -57,6 +57,8 @@ Resultant Force=0 when a closed vector triangle can be formed
 - ![[Screenshot_20250215_162616_Samsung Notes.jpg]]
 - Fulcrum=Pivot
 - Any point can be considered pivot
+- ![[Pasted image 20250601130334.png]]
+- this is a couple
 ### Forces, density and pressure
 - rocket? think of fuel's mass
 - Drag $\propto$ Speed, Area, Viscosity
